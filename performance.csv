@@ -1,0 +1,151 @@
+Employee_ID,Month,Productivity,Tasks_Completed,Quality_Score,Manager_Rating,Attrition_Risk,Performance_category,Rating_category,Productvity_status
+EMP001,Jan-25,73,113,91,2.9,Low,Average,Poor,Low
+EMP002,Jan-25,72,138,82,4.5,Low,Average,Outstanding,Low
+EMP003,Jan-25,70,81,100,3.8,Medium,Average,Average,Low
+EMP004,Jan-25,98,140,83,4.4,Medium,Excellent,Good,High
+EMP005,Jan-25,74,73,85,4.8,Medium,Average,Outstanding,Low
+EMP006,Jan-25,83,58,79,3.3,Medium,Good,Average,High
+EMP007,Jan-25,80,97,79,3.6,Medium,Good,Average,High
+EMP008,Jan-25,86,40,94,4.8,Low,Good,Outstanding,High
+EMP009,Jan-25,86,85,90,4.5,Medium,Good,Outstanding,High
+EMP010,Jan-25,77,42,96,4.3,Low,Average,Good,Low
+EMP011,Jan-25,76,77,96,3.4,Medium,Average,Average,Low
+EMP012,Jan-25,87,88,80,3.9,High,Good,Average,High
+EMP013,Jan-25,72,67,89,3.8,Medium,Average,Average,Low
+EMP014,Jan-25,66,49,77,2.9,High,Needs Improvement,Poor,Low
+EMP015,Jan-25,90,132,88,3.7,Low,Excellent,Average,High
+EMP016,Jan-25,84,128,100,4.8,Medium,Good,Outstanding,High
+EMP017,Jan-25,75,75,89,4,Low,Average,Good,Low
+EMP018,Jan-25,66,47,90,3.4,High,Needs Improvement,Average,Low
+EMP019,Jan-25,83,96,99,3.2,Medium,Good,Average,High
+EMP020,Jan-25,68,135,72,3.3,High,Needs Improvement,Average,Low
+EMP021,Jan-25,86,59,97,2.9,Medium,Good,Poor,High
+EMP022,Jan-25,96,65,87,2.7,Low,Excellent,Poor,High
+EMP023,Jan-25,80,113,87,4.4,Medium,Good,Good,High
+EMP024,Jan-25,95,107,96,3.2,Low,Excellent,Average,High
+EMP025,Jan-25,68,138,94,2.7,High,Needs Improvement,Poor,Low
+EMP026,Jan-25,80,86,98,4.4,High,Good,Good,High
+EMP027,Jan-25,73,63,80,3.7,Medium,Average,Average,Low
+EMP028,Jan-25,83,82,76,4.2,High,Good,Good,High
+EMP029,Jan-25,76,72,89,4.4,Low,Average,Good,Low
+EMP030,Jan-25,68,55,90,3.5,Medium,Needs Improvement,Average,Low
+EMP031,Jan-25,91,46,96,3.8,High,Excellent,Average,High
+EMP032,Jan-25,83,42,88,3.6,Low,Good,Average,High
+EMP033,Jan-25,92,81,95,3.8,Medium,Excellent,Average,High
+EMP034,Jan-25,96,82,90,2.7,Low,Excellent,Poor,High
+EMP035,Jan-25,96,51,87,4.5,High,Excellent,Outstanding,High
+EMP036,Jan-25,70,105,97,4.6,High,Average,Outstanding,Low
+EMP037,Jan-25,89,118,90,5,Low,Good,Outstanding,High
+EMP038,Jan-25,87,75,84,3.6,High,Good,Average,High
+EMP039,Jan-25,69,123,80,2.7,High,Needs Improvement,Poor,Low
+EMP040,Jan-25,96,83,84,3.8,High,Excellent,Average,High
+EMP041,Jan-25,87,42,82,3.9,Low,Good,Average,High
+EMP042,Jan-25,84,42,70,3.1,Medium,Good,Average,High
+EMP043,Jan-25,69,73,97,3.1,High,Needs Improvement,Average,Low
+EMP044,Jan-25,80,108,84,4.1,Low,Good,Good,High
+EMP045,Jan-25,96,85,98,4.7,High,Excellent,Outstanding,High
+EMP046,Jan-25,69,64,94,2.9,Medium,Needs Improvement,Poor,Low
+EMP047,Jan-25,71,52,70,3.8,Low,Average,Average,Low
+EMP048,Jan-25,68,109,81,4.9,Medium,Needs Improvement,Outstanding,Low
+EMP049,Jan-25,80,69,91,3,Medium,Good,Average,High
+EMP050,Jan-25,70,94,78,3.1,Low,Average,Average,Low
+EMP051,Jan-25,82,43,74,4.7,Medium,Good,Outstanding,High
+EMP052,Jan-25,67,88,70,3.6,High,Needs Improvement,Average,Low
+EMP053,Jan-25,73,88,71,3.6,Medium,Average,Average,Low
+EMP054,Jan-25,72,66,94,3.5,Low,Average,Average,Low
+EMP055,Jan-25,65,62,86,4.8,High,Needs Improvement,Outstanding,Low
+EMP056,Jan-25,93,55,75,4.4,Low,Excellent,Good,High
+EMP057,Jan-25,91,134,89,3.4,Medium,Excellent,Average,High
+EMP058,Jan-25,86,64,76,5,High,Good,Outstanding,High
+EMP059,Jan-25,83,101,78,3.8,Medium,Good,Average,High
+EMP060,Jan-25,61,40,82,4.5,Medium,Needs Improvement,Outstanding,Low
+EMP061,Jan-25,66,85,81,4.9,Low,Needs Improvement,Outstanding,Low
+EMP062,Jan-25,87,123,79,3.1,High,Good,Average,High
+EMP063,Jan-25,65,123,90,4.5,Medium,Needs Improvement,Outstanding,Low
+EMP064,Jan-25,61,75,93,4.1,Medium,Needs Improvement,Good,Low
+EMP065,Jan-25,62,58,97,3.1,High,Needs Improvement,Average,Low
+EMP066,Jan-25,60,56,86,2.9,High,Needs Improvement,Poor,Low
+EMP067,Jan-25,90,137,71,2.7,Low,Excellent,Poor,High
+EMP068,Jan-25,78,87,89,3.5,Low,Average,Average,Low
+EMP069,Jan-25,86,62,75,4.8,Low,Good,Outstanding,High
+EMP070,Jan-25,71,86,98,4.8,Low,Average,Outstanding,Low
+EMP071,Jan-25,61,103,76,3.3,High,Needs Improvement,Average,Low
+EMP072,Jan-25,83,73,89,3.3,Low,Good,Average,High
+EMP073,Jan-25,81,43,98,3.7,High,Good,Average,High
+EMP074,Jan-25,69,92,71,3.8,High,Needs Improvement,Average,Low
+EMP075,Jan-25,93,61,75,2.8,Medium,Excellent,Poor,High
+EMP076,Jan-25,74,51,83,5,Low,Average,Outstanding,Low
+EMP077,Jan-25,90,99,83,4.6,High,Excellent,Outstanding,High
+EMP078,Jan-25,88,57,97,4,High,Good,Good,High
+EMP079,Jan-25,60,79,85,3.7,Medium,Needs Improvement,Average,Low
+EMP080,Jan-25,68,81,91,3.8,High,Needs Improvement,Average,Low
+EMP081,Jan-25,66,101,85,4.4,High,Needs Improvement,Good,Low
+EMP082,Jan-25,72,56,77,3.8,Low,Average,Average,Low
+EMP083,Jan-25,74,124,72,4.4,High,Average,Good,Low
+EMP084,Jan-25,85,76,98,4,Low,Good,Good,High
+EMP085,Jan-25,74,72,75,4.3,Medium,Average,Good,Low
+EMP086,Jan-25,81,130,84,4.2,High,Good,Good,High
+EMP087,Jan-25,93,113,98,3.2,Low,Excellent,Average,High
+EMP088,Jan-25,80,94,81,4.2,High,Good,Good,High
+EMP089,Jan-25,62,135,98,4.5,High,Needs Improvement,Outstanding,Low
+EMP090,Jan-25,63,65,75,2.5,High,Needs Improvement,Poor,Low
+EMP091,Jan-25,62,70,75,3.5,Low,Needs Improvement,Average,Low
+EMP092,Jan-25,96,101,85,4.6,Low,Excellent,Outstanding,High
+EMP093,Jan-25,96,91,84,5,Medium,Excellent,Outstanding,High
+EMP094,Jan-25,76,109,84,2.8,Medium,Average,Poor,Low
+EMP095,Jan-25,92,83,80,5,Low,Excellent,Outstanding,High
+EMP096,Jan-25,76,83,95,4.7,High,Average,Outstanding,Low
+EMP097,Jan-25,89,124,73,4.2,Medium,Good,Good,High
+EMP098,Jan-25,93,73,72,4.5,Medium,Excellent,Outstanding,High
+EMP099,Jan-25,61,109,74,2.7,Medium,Needs Improvement,Poor,Low
+EMP100,Jan-25,67,55,87,4.3,Low,Needs Improvement,Good,Low
+EMP101,Jan-25,82,79,84,3.6,Low,Good,Average,High
+EMP102,Jan-25,92,63,82,4.6,High,Excellent,Outstanding,High
+EMP103,Jan-25,72,58,96,4.2,Low,Average,Good,Low
+EMP104,Jan-25,72,133,93,3.4,High,Average,Average,Low
+EMP105,Jan-25,69,112,97,3.8,Low,Needs Improvement,Average,Low
+EMP106,Jan-25,94,86,87,3.1,High,Excellent,Average,High
+EMP107,Jan-25,70,87,75,2.8,Low,Average,Poor,Low
+EMP108,Jan-25,74,136,92,2.9,High,Average,Poor,Low
+EMP109,Jan-25,87,65,78,2.6,Medium,Good,Poor,High
+EMP110,Jan-25,78,89,98,3.8,Medium,Average,Average,Low
+EMP111,Jan-25,90,99,80,2.8,Medium,Excellent,Poor,High
+EMP112,Jan-25,60,49,78,4.3,High,Needs Improvement,Good,Low
+EMP113,Jan-25,79,66,99,4.3,High,Average,Good,Low
+EMP114,Jan-25,64,47,94,3.5,Low,Needs Improvement,Average,Low
+EMP115,Jan-25,90,60,94,4.9,Low,Excellent,Outstanding,High
+EMP116,Jan-25,85,140,75,4.1,Medium,Good,Good,High
+EMP117,Jan-25,97,64,77,4.6,Low,Excellent,Outstanding,High
+EMP118,Jan-25,74,75,74,4.7,Low,Average,Outstanding,Low
+EMP119,Jan-25,97,126,74,3,Low,Excellent,Average,High
+EMP120,Jan-25,77,137,80,2.5,Low,Average,Poor,Low
+EMP121,Jan-25,93,79,86,2.8,High,Excellent,Poor,High
+EMP122,Jan-25,98,100,77,4.2,Medium,Excellent,Good,High
+EMP123,Jan-25,67,109,93,4,Low,Needs Improvement,Good,Low
+EMP124,Jan-25,64,136,99,4.3,Medium,Needs Improvement,Good,Low
+EMP125,Jan-25,62,88,96,4.7,Low,Needs Improvement,Outstanding,Low
+EMP126,Jan-25,89,94,88,2.9,High,Good,Poor,High
+EMP127,Jan-25,91,137,79,3.1,Low,Excellent,Average,High
+EMP128,Jan-25,65,133,89,4.9,Medium,Needs Improvement,Outstanding,Low
+EMP129,Jan-25,75,125,85,4.6,Medium,Average,Outstanding,Low
+EMP130,Jan-25,86,47,90,2.8,Medium,Good,Poor,High
+EMP131,Jan-25,77,72,90,3.8,Medium,Average,Average,Low
+EMP132,Jan-25,76,85,72,2.5,High,Average,Poor,Low
+EMP133,Jan-25,91,71,88,3.7,High,Excellent,Average,High
+EMP134,Jan-25,87,125,78,2.8,High,Good,Poor,High
+EMP135,Jan-25,91,111,89,4.6,Medium,Excellent,Outstanding,High
+EMP136,Jan-25,98,106,97,4.8,Medium,Excellent,Outstanding,High
+EMP137,Jan-25,62,117,73,4,High,Needs Improvement,Good,Low
+EMP138,Jan-25,66,113,73,2.8,Low,Needs Improvement,Poor,Low
+EMP139,Jan-25,83,114,91,4.3,High,Good,Good,High
+EMP140,Jan-25,86,90,92,4.4,Medium,Good,Good,High
+EMP141,Jan-25,88,98,88,4.7,Low,Good,Outstanding,High
+EMP142,Jan-25,85,120,93,4.4,High,Good,Good,High
+EMP143,Jan-25,61,67,88,3,High,Needs Improvement,Average,Low
+EMP144,Jan-25,81,52,79,4.8,Low,Good,Outstanding,High
+EMP145,Jan-25,89,72,81,4.5,Medium,Good,Outstanding,High
+EMP146,Jan-25,82,71,78,3.6,Low,Good,Average,High
+EMP147,Jan-25,80,98,92,5,Medium,Good,Outstanding,High
+EMP148,Jan-25,70,66,87,4.4,High,Average,Good,Low
+EMP149,Jan-25,80,134,82,4.4,Low,Good,Good,High
+EMP150,Jan-25,91,51,80,3.4,High,Excellent,Average,High

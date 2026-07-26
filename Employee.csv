@@ -1,0 +1,151 @@
+Employee_ID,Employee_Name,Gender,Age,Department,Designation,Hire_Date,Manager,Employment_Type,Salary,city,Experience_year,Age_group,Salary_band,Tenure_category
+EMP109,Vivaan Saxena,Female,40,Sales,Manager,2025-05-13,Manager 13,Full-Time,119889,Bengaluru,1,40-49,High,New
+EMP066,Rahul Saxena,Male,44,Marketing,Specialist,2024-05-14,Manager 9,Contract,119687,Pune,2,40-49,High,Mid
+EMP008,Aditya Saxena,Male,56,Marketing,Specialist,2024-08-20,Manager 12,Full-Time,119593,Noida,1,50+,High,New
+EMP014,Pooja Kumar,Male,40,Marketing,Executive,2024-01-05,Manager 7,Full-Time,119353,Mumbai,2,40-49,High,Mid
+EMP115,Kavya Patel,Female,28,Finance,Manager,2022-06-21,Manager 11,Full-Time,118125,Mumbai,4,20-29,High,Mid
+EMP045,Karan Patel,Male,43,Operations,Manager,2022-02-08,Manager 10,Contract,117900,Pune,4,40-49,High,Mid
+EMP053,Meera Saxena,Female,50,HR,HR Manager,2023-12-24,Manager 10,Contract,117500,Bengaluru,2,50+,High,Mid
+EMP060,Aditya Patel,Male,51,Operations,Manager,2021-02-25,Manager 3,Full-Time,116900,Gurugram,5,50+,High,Experienced
+EMP082,Priya Verma,Male,57,HR,HR Manager,2021-06-16,Manager 2,Full-Time,116563,Delhi,5,50+,High,Experienced
+EMP148,Priya Joshi,Female,58,Operations,Associate,2021-06-04,Manager 13,Contract,115918,Pune,5,50+,High,Experienced
+EMP144,Ananya Singh,Female,23,IT,Team Lead,2023-05-06,Manager 6,Full-Time,113904,Bengaluru,3,20-29,High,Mid
+EMP149,Riya Kumar,Male,50,Operations,Manager,2024-07-03,Manager 2,Contract,113269,Mumbai,2,50+,High,Mid
+EMP035,Ankit Joshi,Female,25,Finance,Analyst,2022-06-25,Manager 2,Contract,113130,Gurugram,4,20-29,High,Mid
+EMP006,Karan Saxena,Male,26,Operations,Executive,2024-06-20,Manager 1,Full-Time,112397,Gurugram,2,20-29,High,Mid
+EMP128,Kavya Malhotra,Female,46,HR,HR Manager,2024-07-20,Manager 10,Contract,111830,Mumbai,2,40-49,High,Mid
+EMP039,Aman Verma,Male,33,Customer Support,Team Lead,2025-03-15,Manager 15,Contract,111351,Delhi,1,30-39,High,New
+EMP126,Ankit Yadav,Female,23,Operations,Associate,2021-03-30,Manager 1,Contract,110623,Mumbai,5,20-29,High,Experienced
+EMP135,Pooja Sharma,Male,39,Customer Support,Associate,2024-09-09,Manager 12,Contract,109822,Gurugram,1,30-39,High,New
+EMP087,Aarav Singh,Male,58,Marketing,Specialist,2022-05-28,Manager 10,Full-Time,109129,Pune,4,50+,High,Mid
+EMP133,Karan Singh,Male,31,Sales,Senior Executive,2022-10-02,Manager 11,Contract,108696,Noida,3,30-39,High,Mid
+EMP138,Vivaan Gupta,Male,25,Finance,Manager,2021-06-23,Manager 11,Full-Time,108148,Gurugram,5,20-29,High,Experienced
+EMP083,Ananya Sharma,Male,40,IT,Developer,2023-08-21,Manager 12,Contract,107832,Pune,2,40-49,High,Mid
+EMP069,Riya Verma,Male,39,IT,Team Lead,2022-07-04,Manager 15,Contract,107656,Noida,4,30-39,High,Mid
+EMP081,Ananya Saxena,Male,28,IT,Developer,2023-05-29,Manager 13,Full-Time,107139,Pune,3,20-29,High,Mid
+EMP107,Simran Yadav,Female,41,IT,Developer,2022-09-05,Manager 4,Contract,107014,Mumbai,3,40-49,High,Mid
+EMP097,Vikas Gupta,Female,56,Marketing,Specialist,2024-04-02,Manager 8,Contract,106931,Gurugram,2,50+,High,Mid
+EMP132,Meera Kumar,Male,48,Operations,Associate,2024-02-25,Manager 6,Contract,106869,Pune,2,40-49,High,Mid
+EMP043,Vivaan Singh,Female,44,Finance,Analyst,2022-06-28,Manager 12,Contract,106099,Mumbai,4,40-49,High,Mid
+EMP088,Priya Joshi,Female,39,Customer Support,Team Lead,2021-03-24,Manager 3,Contract,105529,Pune,5,30-39,High,Experienced
+EMP051,Rohit Joshi,Female,37,IT,Team Lead,2022-02-03,Manager 3,Full-Time,105454,Delhi,4,30-39,High,Mid
+EMP070,Rohit Kumar,Male,53,Customer Support,Team Lead,2024-06-03,Manager 14,Contract,104691,Noida,2,50+,High,Mid
+EMP032,Aditya Malhotra,Male,54,IT,Team Lead,2021-07-24,Manager 5,Full-Time,103792,Gurugram,5,50+,High,Experienced
+EMP116,Arjun Verma,Male,51,Sales,Manager,2022-11-03,Manager 15,Contract,103584,Pune,3,50+,High,Mid
+EMP003,Meera Patel,Male,50,Operations,Associate,2022-02-12,Manager 10,Contract,103563,Delhi,4,50+,High,Mid
+EMP122,Kavya Verma,Male,43,HR,HR Executive,2022-03-01,Manager 13,Full-Time,102641,Bengaluru,4,40-49,High,Mid
+EMP120,Karan Sharma,Female,39,Marketing,Specialist,2024-08-13,Manager 4,Full-Time,101364,Mumbai,1,30-39,High,New
+EMP016,Ankit Sharma,Female,53,Finance,Analyst,2025-05-14,Manager 1,Full-Time,100697,Gurugram,1,50+,High,New
+EMP022,Kavya Saxena,Female,37,IT,Analyst,2021-09-28,Manager 13,Contract,100678,Mumbai,4,30-39,High,Mid
+EMP077,Pooja Sharma,Male,57,Finance,Analyst,2021-09-17,Manager 5,Full-Time,100010,Pune,4,50+,High,Mid
+EMP029,Vivaan Malhotra,Male,33,IT,Team Lead,2021-11-19,Manager 2,Full-Time,99615,Pune,4,30-39,High,Mid
+EMP076,Ananya Singh,Male,40,Marketing,Manager,2024-05-07,Manager 4,Contract,98765,Noida,2,40-49,High,Mid
+EMP012,Aditya Sharma,Male,31,HR,HR Executive,2023-10-08,Manager 11,Full-Time,96784,Pune,2,30-39,High,Mid
+EMP067,Riya Sharma,Female,53,Finance,Analyst,2024-08-19,Manager 2,Contract,96317,Gurugram,1,50+,High,New
+EMP092,Nisha Sharma,Male,39,Finance,Manager,2024-07-04,Manager 9,Full-Time,95338,Gurugram,2,30-39,High,Mid
+EMP090,Rohit Malhotra,Male,51,Finance,Senior Analyst,2022-08-14,Manager 2,Contract,94942,Gurugram,3,50+,High,Mid
+EMP072,Neha Joshi,Female,50,HR,HR Manager,2024-02-12,Manager 13,Full-Time,94038,Delhi,2,50+,High,Mid
+EMP093,Aarav Saxena,Male,32,IT,Team Lead,2021-09-06,Manager 5,Full-Time,93532,Bengaluru,4,30-39,High,Mid
+EMP079,Aditya Patel,Female,26,Sales,Senior Executive,2021-08-22,Manager 10,Full-Time,92616,Noida,4,20-29,High,Mid
+EMP054,Pooja Verma,Female,55,IT,Analyst,2023-07-11,Manager 8,Full-Time,92216,Gurugram,3,50+,High,Mid
+EMP099,Rohit Patel,Male,53,Sales,Senior Executive,2024-12-15,Manager 1,Full-Time,91993,Bengaluru,1,50+,High,New
+EMP062,Meera Sharma,Female,36,Customer Support,Associate,2021-02-09,Manager 11,Full-Time,91644,Pune,5,30-39,High,Experienced
+EMP041,Ananya Verma,Male,23,HR,HR Executive,2022-12-18,Manager 11,Full-Time,90332,Mumbai,3,20-29,High,Mid
+EMP118,Meera Patel,Male,48,HR,HR Manager,2023-01-30,Manager 11,Full-Time,89459,Mumbai,3,40-49,High,Mid
+EMP103,Rahul Joshi,Male,41,Marketing,Executive,2021-07-21,Manager 15,Full-Time,86881,Delhi,5,40-49,High,Experienced
+EMP142,Aman Patel,Male,54,IT,Team Lead,2021-12-26,Manager 9,Contract,86446,Delhi,4,50+,High,Mid
+EMP129,Rahul Malhotra,Male,49,Operations,Manager,2021-07-23,Manager 8,Full-Time,86387,Mumbai,5,40-49,High,Experienced
+EMP048,Arjun Kumar,Female,50,Finance,Analyst,2024-04-02,Manager 8,Full-Time,86346,Bengaluru,2,50+,High,Mid
+EMP139,Arjun Joshi,Female,39,IT,Team Lead,2023-09-22,Manager 4,Full-Time,85576,Gurugram,2,30-39,High,Mid
+EMP004,Pooja Gupta,Male,43,Customer Support,Associate,2022-11-28,Manager 2,Full-Time,85392,Mumbai,3,40-49,High,Mid
+EMP025,Pooja Joshi,Male,26,IT,Analyst,2022-01-11,Manager 8,Full-Time,85296,Delhi,4,20-29,High,Mid
+EMP047,Rohit Gupta,Female,47,HR,HR Executive,2024-09-23,Manager 9,Full-Time,85108,Gurugram,1,40-49,High,New
+EMP057,Kavya Sharma,Female,52,Sales,Executive,2023-03-09,Manager 1,Contract,85069,Gurugram,3,50+,High,Mid
+EMP058,Meera Saxena,Male,53,Customer Support,Team Lead,2024-01-08,Manager 4,Contract,84921,Mumbai,2,50+,High,Mid
+EMP095,Vikas Verma,Female,57,Marketing,Specialist,2023-09-16,Manager 3,Contract,84459,Noida,2,50+,High,Mid
+EMP040,Neha Yadav,Male,28,HR,HR Manager,2024-10-03,Manager 7,Full-Time,83964,Mumbai,1,20-29,High,New
+EMP073,Neha Yadav,Female,52,Finance,Analyst,2024-11-17,Manager 9,Contract,83005,Mumbai,1,50+,High,New
+EMP091,Aarav Malhotra,Female,48,Finance,Analyst,2023-11-20,Manager 1,Full-Time,82976,Bengaluru,2,40-49,High,Mid
+EMP030,Kavya Verma,Male,27,Customer Support,Associate,2021-09-03,Manager 7,Contract,82923,Gurugram,4,20-29,High,Mid
+EMP130,Rahul Kumar,Female,42,Finance,Senior Analyst,2023-05-02,Manager 11,Contract,82262,Gurugram,3,40-49,High,Mid
+EMP114,Karan Singh,Female,22,Marketing,Manager,2024-02-16,Manager 5,Full-Time,82089,Mumbai,2,20-29,High,Mid
+EMP059,Rohit Gupta,Female,30,IT,Analyst,2022-11-20,Manager 10,Full-Time,80968,Mumbai,3,30-39,High,Mid
+EMP108,Karan Saxena,Female,40,Sales,Executive,2024-03-17,Manager 1,Contract,79986,Gurugram,2,40-49,High,Mid
+EMP027,Rohit Yadav,Female,40,Sales,Executive,2021-01-05,Manager 7,Contract,79672,Noida,5,40-49,High,Experienced
+EMP098,Riya Verma,Male,58,Operations,Manager,2023-07-22,Manager 7,Full-Time,79441,Mumbai,3,50+,High,Mid
+EMP033,Priya Joshi,Female,55,Sales,Executive,2022-08-07,Manager 1,Contract,78434,Pune,3,50+,High,Mid
+EMP145,Simran Singh,Male,49,IT,Team Lead,2021-06-30,Manager 10,Contract,77428,Bengaluru,5,40-49,High,Experienced
+EMP071,Riya Yadav,Female,57,IT,Analyst,2022-06-14,Manager 1,Full-Time,76507,Delhi,4,50+,High,Mid
+EMP134,Karan Singh,Female,58,Customer Support,Associate,2024-02-14,Manager 4,Contract,75890,Bengaluru,2,50+,High,Mid
+EMP147,Aman Verma,Male,31,Operations,Associate,2022-12-21,Manager 5,Full-Time,75793,Noida,3,30-39,High,Mid
+EMP005,Pooja Sharma,Female,56,Sales,Senior Executive,2024-05-21,Manager 2,Contract,75082,Delhi,2,50+,High,Mid
+EMP036,Aman Yadav,Male,50,Sales,Executive,2025-04-29,Manager 9,Contract,73719,Bengaluru,1,50+,High,New
+EMP074,Nisha Yadav,Female,38,Marketing,Manager,2022-12-22,Manager 4,Full-Time,73357,Pune,3,30-39,High,Mid
+EMP102,Vikas Malhotra,Male,26,Customer Support,Team Lead,2024-07-07,Manager 4,Contract,71505,Noida,2,20-29,High,Mid
+EMP146,Riya Verma,Female,32,Sales,Senior Executive,2025-03-08,Manager 2,Full-Time,70668,Bengaluru,1,30-39,High,New
+EMP111,Vivaan Saxena,Female,30,Marketing,Executive,2023-06-22,Manager 2,Contract,70492,Gurugram,3,30-39,High,Mid
+EMP038,Vivaan Kumar,Male,37,HR,HR Executive,2023-01-17,Manager 11,Full-Time,70404,Gurugram,3,30-39,High,Mid
+EMP086,Rohit Yadav,Female,50,Sales,Senior Executive,2024-12-04,Manager 2,Full-Time,69857,Mumbai,1,50+,Medium,New
+EMP046,Ananya Patel,Female,47,Customer Support,Associate,2023-11-05,Manager 12,Contract,69363,Bengaluru,2,40-49,Medium,Mid
+EMP113,Riya Singh,Female,26,Finance,Senior Analyst,2025-03-09,Manager 3,Full-Time,68684,Pune,1,20-29,Medium,New
+EMP104,Karan Patel,Male,37,Finance,Analyst,2023-01-05,Manager 9,Contract,68452,Bengaluru,3,30-39,Medium,Mid
+EMP055,Pooja Kumar,Female,56,IT,Analyst,2022-04-26,Manager 2,Full-Time,67450,Noida,4,50+,Medium,Mid
+EMP140,Kavya Joshi,Female,24,IT,Analyst,2024-10-20,Manager 4,Contract,67125,Bengaluru,1,20-29,Medium,New
+EMP119,Karan Verma,Female,50,Operations,Executive,2021-03-09,Manager 4,Contract,66666,Delhi,5,50+,Medium,Experienced
+EMP150,Vivaan Kumar,Male,41,Marketing,Specialist,2024-04-26,Manager 8,Contract,66002,Delhi,2,40-49,Medium,Mid
+EMP009,Meera Verma,Female,25,IT,Developer,2024-08-03,Manager 4,Full-Time,65382,Gurugram,1,20-29,Medium,New
+EMP034,Rahul Malhotra,Male,39,Sales,Executive,2021-08-25,Manager 5,Full-Time,64664,Pune,4,30-39,Medium,Mid
+EMP015,Priya Malhotra,Male,41,Sales,Manager,2023-10-23,Manager 14,Full-Time,64522,Noida,2,40-49,Medium,Mid
+EMP106,Pooja Sharma,Female,40,IT,Team Lead,2023-07-31,Manager 11,Full-Time,63289,Delhi,2,40-49,Medium,Mid
+EMP063,Aarav Saxena,Male,37,Sales,Executive,2022-02-13,Manager 3,Contract,62411,Pune,4,30-39,Medium,Mid
+EMP011,Meera Malhotra,Female,49,Finance,Analyst,2025-03-06,Manager 15,Contract,62325,Gurugram,1,40-49,Medium,New
+EMP017,Neha Saxena,Male,27,Customer Support,Team Lead,2021-04-29,Manager 12,Contract,61385,Delhi,5,20-29,Medium,Experienced
+EMP031,Rohit Gupta,Female,51,HR,HR Manager,2022-06-28,Manager 6,Full-Time,61285,Delhi,4,50+,Medium,Mid
+EMP124,Riya Sharma,Male,38,Sales,Senior Executive,2024-04-20,Manager 1,Full-Time,61186,Pune,2,30-39,Medium,Mid
+EMP021,Vivaan Kumar,Male,54,Marketing,Executive,2021-05-19,Manager 4,Contract,60007,Pune,5,50+,Medium,Experienced
+EMP094,Nisha Singh,Male,53,IT,Analyst,2021-08-21,Manager 15,Contract,59451,Bengaluru,4,50+,Medium,Mid
+EMP110,Sneha Saxena,Female,30,Customer Support,Team Lead,2024-07-27,Manager 11,Full-Time,58705,Pune,1,30-39,Medium,New
+EMP052,Ankit Joshi,Male,57,Customer Support,Team Lead,2021-12-27,Manager 4,Full-Time,58683,Mumbai,4,50+,Medium,Mid
+EMP064,Pooja Kumar,Male,29,Sales,Manager,2023-08-11,Manager 13,Full-Time,58569,Gurugram,2,20-29,Medium,Mid
+EMP028,Kavya Malhotra,Male,42,HR,HR Manager,2021-04-30,Manager 1,Full-Time,58534,Bengaluru,5,40-49,Medium,Experienced
+EMP137,Simran Joshi,Female,32,Marketing,Manager,2023-02-10,Manager 6,Contract,58197,Pune,3,30-39,Medium,Mid
+EMP121,Arjun Sharma,Male,43,Sales,Manager,2024-08-07,Manager 4,Full-Time,57801,Bengaluru,1,40-49,Medium,New
+EMP061,Riya Kumar,Female,39,IT,Developer,2023-07-21,Manager 13,Contract,57742,Gurugram,3,30-39,Medium,Mid
+EMP141,Sneha Gupta,Female,40,Sales,Executive,2022-09-10,Manager 6,Full-Time,56794,Delhi,3,40-49,Medium,Mid
+EMP019,Ananya Patel,Female,50,Operations,Manager,2024-12-31,Manager 15,Contract,56365,Delhi,1,50+,Medium,New
+EMP050,Aarav Sharma,Male,52,Finance,Analyst,2021-10-29,Manager 10,Full-Time,56100,Mumbai,4,50+,Medium,Mid
+EMP136,Kavya Patel,Male,31,Finance,Analyst,2021-10-21,Manager 12,Full-Time,53777,Delhi,4,30-39,Medium,Mid
+EMP112,Aman Malhotra,Female,55,Marketing,Specialist,2022-02-16,Manager 9,Contract,53021,Noida,4,50+,Medium,Mid
+EMP105,Aditya Saxena,Female,37,Marketing,Executive,2021-12-25,Manager 8,Full-Time,52280,Noida,4,30-39,Medium,Mid
+EMP049,Aditya Yadav,Female,27,IT,Team Lead,2024-09-11,Manager 14,Full-Time,52241,Pune,1,20-29,Medium,New
+EMP068,Priya Malhotra,Female,56,Marketing,Specialist,2023-06-11,Manager 13,Contract,50052,Mumbai,3,50+,Medium,Mid
+EMP056,Sneha Singh,Female,48,HR,HR Manager,2024-12-17,Manager 6,Contract,50028,Mumbai,1,40-49,Medium,New
+EMP123,Meera Yadav,Male,29,Sales,Senior Executive,2021-09-24,Manager 11,Full-Time,48964,Noida,4,20-29,Medium,Mid
+EMP085,Vivaan Gupta,Female,58,HR,HR Manager,2021-05-27,Manager 15,Contract,48643,Mumbai,5,50+,Medium,Experienced
+EMP117,Vivaan Yadav,Female,29,IT,Analyst,2021-04-03,Manager 2,Full-Time,48320,Bengaluru,5,20-29,Medium,Experienced
+EMP096,Pooja Patel,Female,54,Operations,Manager,2021-05-23,Manager 5,Full-Time,47892,Gurugram,5,50+,Medium,Experienced
+EMP018,Vikas Malhotra,Male,38,Customer Support,Associate,2024-09-13,Manager 9,Contract,46828,Noida,1,30-39,Medium,New
+EMP075,Meera Gupta,Male,35,HR,HR Manager,2025-03-02,Manager 12,Contract,45670,Gurugram,1,30-39,Medium,New
+EMP044,Kavya Verma,Female,24,Operations,Manager,2023-02-28,Manager 12,Contract,45157,Delhi,3,20-29,Medium,Mid
+EMP125,Aditya Joshi,Female,45,IT,Team Lead,2025-03-08,Manager 9,Full-Time,44896,Mumbai,1,40-49,Medium,New
+EMP127,Nisha Singh,Male,42,IT,Team Lead,2023-10-02,Manager 10,Full-Time,44150,Delhi,2,40-49,Medium,Mid
+EMP078,Kavya Yadav,Female,52,Customer Support,Team Lead,2021-01-26,Manager 8,Contract,43446,Noida,5,50+,Medium,Experienced
+EMP007,Pooja Joshi,Female,32,Sales,Executive,2023-02-18,Manager 6,Contract,43238,Noida,3,30-39,Medium,Mid
+EMP100,Rahul Malhotra,Female,22,Operations,Executive,2023-06-21,Manager 12,Full-Time,43154,Mumbai,3,20-29,Medium,Mid
+EMP024,Rohit Kumar,Male,37,Marketing,Manager,2021-05-05,Manager 4,Full-Time,42899,Bengaluru,5,30-39,Medium,Experienced
+EMP023,Simran Kumar,Female,48,HR,HR Executive,2024-09-11,Manager 8,Full-Time,42704,Pune,1,40-49,Medium,New
+EMP089,Karan Patel,Female,42,Customer Support,Team Lead,2023-08-21,Manager 11,Full-Time,41959,Noida,2,40-49,Medium,Mid
+EMP002,Simran Sharma,Male,27,Marketing,Manager,2024-04-24,Manager 4,Full-Time,41395,Bengaluru,2,20-29,Medium,Mid
+EMP080,Rahul Malhotra,Female,36,HR,HR Manager,2022-05-24,Manager 13,Contract,41164,Mumbai,4,30-39,Medium,Mid
+EMP037,Aman Malhotra,Male,45,Sales,Executive,2024-11-16,Manager 10,Full-Time,39862,Mumbai,1,40-49,Low,New
+EMP101,Pooja Kumar,Female,27,Customer Support,Associate,2023-08-20,Manager 14,Contract,39807,Pune,2,20-29,Low,Mid
+EMP084,Neha Yadav,Male,49,Customer Support,Team Lead,2024-11-08,Manager 2,Full-Time,39329,Pune,1,40-49,Low,New
+EMP042,Pooja Kumar,Female,56,Finance,Senior Analyst,2025-05-03,Manager 6,Full-Time,39099,Delhi,1,50+,Low,New
+EMP131,Aditya Singh,Female,28,HR,HR Manager,2021-07-06,Manager 12,Contract,38799,Noida,5,20-29,Low,Experienced
+EMP010,Kavya Kumar,Male,53,IT,Developer,2022-03-09,Manager 7,Contract,38675,Noida,4,50+,Low,Mid
+EMP020,Aarav Saxena,Male,36,HR,HR Executive,2022-11-24,Manager 1,Full-Time,38392,Pune,3,30-39,Low,Mid
+EMP013,Rohit Saxena,Female,55,IT,Team Lead,2023-02-28,Manager 5,Full-Time,38326,Pune,3,50+,Low,Mid
+EMP143,Aarav Joshi,Male,42,IT,Team Lead,2023-06-13,Manager 10,Contract,35544,Bengaluru,3,40-49,Low,Mid
+EMP065,Kavya Patel,Female,34,Sales,Manager,2022-10-01,Manager 2,Full-Time,33365,Delhi,3,30-39,Low,Mid
+EMP001,Pooja Verma,Male,30,Marketing,Executive,2025-02-27,Manager 12,Full-Time,33278,Pune,1,30-39,Low,New
+EMP026,Neha Gupta,Female,53,Marketing,Manager,2021-07-11,Manager 8,Full-Time,31934,Mumbai,5,50+,Low,Experienced
